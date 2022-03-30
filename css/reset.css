@@ -5,3 +5,14 @@
 
 a {
     text-decoration: none;
+}
+
+body {
+    width: 100%;
+}
+
+.nav-item {
+    color: black;
+}
+
+
