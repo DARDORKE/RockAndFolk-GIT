@@ -62,3 +62,15 @@ main {
 .sec3 {
     padding-top: 100px;
 }
+
+@media (min-width: 770px) {
+ .toping {
+     display: none;
+ }
+}
+
+@media (max-width: 769px) {
+    .toping2 {
+        display: none;
+    }
+}
