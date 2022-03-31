@@ -1,6 +1,5 @@
 body {
     max-width: 100%;
-
 }
 
 .divider {
@@ -75,6 +74,19 @@ main {
     }
 }
 
+
 .carousel-item {
     max-height: 505px;
+}
+
+.navbar-collapse {
+    margin-left: 15px;
+}
+
+.locaux {
+    text-align: center;
+}
+
+div ul {
+    list-style: none;
 }
