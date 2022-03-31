@@ -35,7 +35,7 @@ div {
 }
 
 .featurette-heading {
-    font-size: 48px;
+    font-size: 2em;
 }
 
 .footer {
@@ -90,3 +90,18 @@ main {
 div ul {
     list-style: none;
 }
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+.carousel-caption h2 {
+    font-size: 2.5em;
+}
+
+.carousel-caption {
+    font-size: 0.8em;
